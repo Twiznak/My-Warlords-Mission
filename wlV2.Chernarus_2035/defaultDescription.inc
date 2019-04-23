@@ -1,0 +1,9 @@
+onLoadMission = $STR_A3_WL_modRules;
+onLoadName = $STR_A3_WL_modName;
+loadScreen = "A3\Data_F_Warlords\data\wl_logo_ca.paa";
+overviewPicture = "A3\Data_F_Warlords\data\wl_logo_ca.paa";
+overviewText = $STR_A3_WL_modRules;
+dev = "Josef Zemanek";
+author = $STR_A3_Bohemia_Interactive;
+respawn = "BASE";
+respawnDelay = 20;
